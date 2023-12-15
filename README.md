@@ -27,6 +27,6 @@ b=c
 print("Swapped values are:",a,b)
 ```
 ## Output:
-
+![image](https://raw.githubusercontent.com/Krishanthb/Circulate-the-values-of-N-variables/main/python%201b.png)
 ## Result:
 Thus the circulate the value of N varibales are successfully executed
